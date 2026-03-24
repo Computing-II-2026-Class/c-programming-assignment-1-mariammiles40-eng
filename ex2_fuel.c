@@ -10,10 +10,10 @@ float distance_travelled;
 float fuel_used;
 float fuel_efficiency;
 
-printf("Enter distance travelled (km)");
+printf("Enter distance travelled (km): ");
 scanf("%f", &distance_travelled);
 
-printf("Enter fuel used (litres)");
+printf("Enter fuel used (litres): ");
 scanf("%f", %fuel_used);
 
 fuel efficiency = (distance_travelled / fuel_used) ;
