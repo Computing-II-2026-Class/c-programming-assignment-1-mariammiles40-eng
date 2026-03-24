@@ -1,5 +1,7 @@
-/* Name NAKANWAGI MARIAM */
-/* 2500801403 : 25/U/BIE/01403/PE */
+/* 
+*Name:        NAKANWAGI MARIAM 
+*students ID: 2500801403 : 25/U/BIE/01403/PE 
+*/ 
 
 #include <stdio.h>
 
