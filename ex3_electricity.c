@@ -8,7 +8,7 @@ int main(void)
 
 float units_consumed;
 float cost_per_unit;
-float total_bills;
+float total_bill;
 
 printf("Enter units consumed");
 scanf("%f", &units_consumed);
