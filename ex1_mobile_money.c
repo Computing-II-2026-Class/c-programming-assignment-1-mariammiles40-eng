@@ -15,7 +15,7 @@ printf("Enter amount to send: ");
 scanf("%f", &amount);
 
 printf("Enter transaction fee: %");
-scanf("%", &trans);
+scanf("%f", &trans);
 
 transaction = amount * (trans/100.00);
 amount_deducted = (amount + transaction);
