@@ -3,8 +3,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
+int main(){
 
 float units_consumed;
 float cost_per_unit;
