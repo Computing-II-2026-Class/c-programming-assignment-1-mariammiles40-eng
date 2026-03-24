@@ -14,7 +14,7 @@ printf("Enter distance travelled (in kilometers): ");
 scanf("%f", &distance_travelled);
 
 printf("Enter fuel used (in litres): ");
-scanf("%f", %fuel_used);
+scanf("%f", &fuel_used);
 
 fuel efficiency = (distance_travelled / fuel_used) ;
 
