@@ -13,7 +13,7 @@ int main(void)
     scanf("%f", &distance_travelled);
 
     printf("Enter fuel used (in litres): ");
-    scanf("%f", &fuel_used);  // Fixed: changed % to &
+    scanf("%f", &fuel_used);  
 
     
     fuel_efficiency = distance_travelled / fuel_used;
@@ -21,4 +21,4 @@ int main(void)
     printf("FUEL EFFICIENCY: %.2f km/l", fuel_efficiency);
     
     return 0;
-}  // 
+}  
